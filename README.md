@@ -3,15 +3,17 @@ This VST plugin is a virtual instrument that emulates the sound of an Harpejji, 
  
 <img src="Harpejji_VST.png" width = 209 height = 468>
 
+For more information you can read the document of the thesis in spanish [here](Harpejji_VST_Spanish.pdf) or automatically translated to english (with some errors in the translations) [here](Harpejji_VST_Translated.pdf).
+
 ## Installation
 To install the plugin, follow these steps:
-1. Download the VST3 release from the release folder.
+1. Download the VST3 release from the [release](Release) folder.
 2. Extract the ZIP file to your VST3 plugin directory.
 3. Open your DAW and scan for new plugins.
 4. Load the plugin into a MIDI or instrument track and start playing!
 
 To use the standalone application (Windows):
-1. Download the .exe file from the release folder.
+1. Download the .exe file from the [release](Release) folder.
 2. Extract the ZIP file and execute it.
 3. Start playing with any connected MIDI device!
 
