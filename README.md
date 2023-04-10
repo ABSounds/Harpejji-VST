@@ -3,7 +3,7 @@ This VST plugin is a virtual instrument that emulates the sound of an Harpejji, 
  
 <img src="Harpejji_VST.png" width = 209 height = 468>
 
-For more information you can read the document of the thesis in spanish [here](Harpejji_VST_Spanish.pdf) or automatically translated to english (with some errors in the translations) [here](Harpejji_VST_Translated.pdf).
+For more information you can read the document of the thesis in spanish [here](Harpejji_VST_Spanish.pdf) or automatically translated to english (with some errors in the translation) [here](Harpejji_VST_Translated.pdf).
 
 ## Installation
 To install the plugin, follow these steps:
