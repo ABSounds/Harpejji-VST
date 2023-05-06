@@ -1,5 +1,5 @@
-<p align="justify">
 # Harpejji-VST
+<p align="justify">
 This VST plugin is a virtual instrument that emulates the sound of an Harpejji, created as my Bachelor's thesis project using physical modeling synthesis techniques. The plugin was built using the JUCE framework in C++, and can be used within any DAW that supports VST3 plugins or as a standalone application in Windows (or in MacOS if compiled again on an Apple machine).
 </p>
 
