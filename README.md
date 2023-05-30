@@ -26,7 +26,7 @@ To use the standalone application (Windows):
 This plugin was developed as a Bachelor's thesis project using physical modeling synthesis techniques to model the vibration of the strings and the JUCE framework in C++. The code is available on this GitHub repository and contributions are welcome. To build the plugin from source, follow these steps:
 </p>
 
-1. Clone the repository: `git clone https://github.com/ABsoundsDSP/Harpejji-VST`
+1. Clone the repository: `git clone https://github.com/ABsounds/Harpejji-VST`
 2. Open the `HarpejjiVST.jucer` file in the Projucer application.
 3. Configure your build settings and export the project to your preferred IDE or build system.
 4. Build the project and run the plugin in your DAW.
